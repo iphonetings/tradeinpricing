@@ -4,23 +4,23 @@ WiFi: $320
 
 
 iPadPro-10.5-
-4G: $260
-WiFi: $260
+4G: $290
+WiFi: $290
 
 
 iPadPro-12.9-
-4G: $160
-WiFi: $160
+4G: $220
+WiFi: $220
 
 
 iPadPro-9.7-
-4G: $220
-WiFi: $210
+4G: $170
+WiFi: $170
 
 
 iPadAir2-
-4G: $140
-WiFi: $140
+4G: $100/140
+WiFi: $100
 
 
 iPadAir-
@@ -29,8 +29,8 @@ WiFi: $80
 
 
 iPad6-
-4G: $190
-WiFi: $190
+4G: $150/190
+WiFi: $150/190
 
 
 iPad5-
@@ -39,8 +39,8 @@ WiFi: $140
 
 
 iPad4-
-4G: $80
-WiFi: $70
+4G: $70/80
+WiFi: $60/70
 
 
 iPad3-
@@ -59,10 +59,10 @@ WiFi: $100
 
 
 iPadMini2-
-4G: $60
-WiFi: $60
+4G: $70
+WiFi: $70
 
 
 iPadMini-
-4G: $40
-WiFi: $40
+4G: $30
+WiFi: $30
